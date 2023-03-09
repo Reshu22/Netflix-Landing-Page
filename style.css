@@ -426,7 +426,7 @@ body {
 @media(max-width:970px) {
     .hero_card {
          top: 30%;
-        bottom: 10%;
+        bottom: 20%;
         left: 25%;
         gap: 5px;
         width: 50%;
