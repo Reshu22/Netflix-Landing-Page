@@ -630,6 +630,10 @@ body {
 }
 
 @media(max-width:500px) {
+    
+     .hero_card {
+        gap: 0px;
+    }
 
     .card-1,
     .card-3 {
