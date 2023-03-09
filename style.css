@@ -501,6 +501,13 @@ body {
 
 
 @media(max-width:768px) {
+    
+    .hero_card {
+         top: 30%;
+        bottom: 20%;
+        left: 25%;
+        gap: 3px;
+    }
 
     .navbar_nav_items {
         display: flex;
